@@ -1,5 +1,6 @@
 {
   "name": "pagination",
+  "homepage": "https://vyshnavimn.github.io/Pagination",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
